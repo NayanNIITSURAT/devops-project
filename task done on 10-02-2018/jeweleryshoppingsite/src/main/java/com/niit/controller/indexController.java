@@ -7,8 +7,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class indexController {
-	@Autowired
-	
+	//@Autowired
 	@RequestMapping("/first")
 	public String home(){
 	System.out.println("In Home");

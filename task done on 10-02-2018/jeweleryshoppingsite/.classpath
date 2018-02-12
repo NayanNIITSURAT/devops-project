@@ -28,6 +28,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/pun_11668_FPC2/Desktop/jar/jewelleryshoppingBackend.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
